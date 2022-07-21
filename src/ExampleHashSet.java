@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class ExempleHashSet {
+public class ExampleHashSet {
     public static void main(String[]args)
     {
         HashSet<String> h = new HashSet<String>();
